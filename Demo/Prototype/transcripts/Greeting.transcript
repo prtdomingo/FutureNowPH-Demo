@@ -1,0 +1,79 @@
+[
+  {
+    "conversation": {
+      "id": "7CgVB5hHukPQaO1x0xSTCASnmlU="
+    },
+    "id": "1",
+    "timestamp": "2019-03-18T14:30:36.100Z",
+    "type": "conversationUpdate",
+    "channelId": "chatdown",
+    "membersAdded": [
+      {
+        "id": "gZtT23KhukX3DYKJVYoRuMYTArQ=",
+        "name": "FutureNow Bot",
+        "role": "bot"
+      }
+    ],
+    "membersRemoved": []
+  },
+  {
+    "conversation": {
+      "id": "7CgVB5hHukPQaO1x0xSTCASnmlU="
+    },
+    "id": "2",
+    "recipient": {
+      "id": "gZtT23KhukX3DYKJVYoRuMYTArQ=",
+      "name": "FutureNow Bot",
+      "role": "bot"
+    },
+    "from": {
+      "id": "YLVDv6r04Wdwd1ENAD+Uuv3wyZk=",
+      "name": "Dan",
+      "role": "user"
+    },
+    "text": "Hey!",
+    "timestamp": "2019-03-18T14:30:38.100Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "7CgVB5hHukPQaO1x0xSTCASnmlU="
+    },
+    "id": "3",
+    "recipient": {
+      "id": "YLVDv6r04Wdwd1ENAD+Uuv3wyZk=",
+      "name": "Dan",
+      "role": "user"
+    },
+    "from": {
+      "id": "gZtT23KhukX3DYKJVYoRuMYTArQ=",
+      "name": "FutureNow Bot",
+      "role": "bot"
+    },
+    "text": "Hi!",
+    "timestamp": "2019-03-18T14:30:40.100Z",
+    "type": "message",
+    "channelId": "chatdown"
+  },
+  {
+    "conversation": {
+      "id": "7CgVB5hHukPQaO1x0xSTCASnmlU="
+    },
+    "id": "4",
+    "recipient": {
+      "id": "YLVDv6r04Wdwd1ENAD+Uuv3wyZk=",
+      "name": "Dan",
+      "role": "user"
+    },
+    "from": {
+      "id": "gZtT23KhukX3DYKJVYoRuMYTArQ=",
+      "name": "FutureNow Bot",
+      "role": "bot"
+    },
+    "text": "What can I do for you?",
+    "timestamp": "2019-03-18T14:30:42.100Z",
+    "type": "message",
+    "channelId": "chatdown"
+  }
+]
